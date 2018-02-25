@@ -1,0 +1,398 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="guissell.com" resolutions="1x,2x" timestamp="1519586843332">
+  <folder name="css">
+    <file name="site_global.css" crc="4057539985"/>
+    <file name="master_master.css" crc="23898876" ref="gsf--in-print:gsf--branding---identity:index:gsf--design---development"/>
+    <file name="gsf--in-print.css" crc="4154462226" ref="gsf--in-print"/>
+    <file name="iefonts_gsf--in-print.css" crc="187424056" ref="gsf--in-print"/>
+    <file name="gsf--branding---identity.css" crc="4023557826" ref="gsf--branding---identity"/>
+    <file name="iefonts_gsf--branding---identity.css" crc="111355617" ref="gsf--branding---identity"/>
+    <file name="index.css" crc="4219291299" ref="index"/>
+    <file name="gsf--design---development.css" crc="190811347" ref="gsf--design---development"/>
+    <file name="iefonts_gsf--design---development.css" crc="3834499991" ref="gsf--design---development"/>
+  </folder>
+  <folder name="fonts">
+    <file name="notera.woff" crc="3916886867"/>
+    <file name="notera.eot" crc="3798293921"/>
+    <file name="notera.svg" crc="98120516"/>
+    <file name="maisondefleur.woff" crc="4117163086"/>
+    <file name="maisondefleurregular.eot" crc="396228640"/>
+    <file name="maisondefleurregular.svg" crc="380116098"/>
+  </folder>
+  <folder name="assets">
+    <folder name="line1">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1496047054000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="179923243" mt="1496047054000"/>
+        <file name="Poster.png" crc="179923243" mt="1496047054000"/>
+      </folder>
+      <file name="line1_edge.js" crc="3852015075" mt="1496047054000"/>
+      <file name="line1.html" crc="314378871" mt="1496047054000"/>
+    </folder>
+    <folder name="line2">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1496047054000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3795635313" mt="1496047054000"/>
+        <file name="Poster.png" crc="3795635313" mt="1496047054000"/>
+      </folder>
+      <file name="line2_edge.js" crc="4214161752" mt="1496047054000"/>
+      <file name="line2.html" crc="464759135" mt="1496047054000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--design---development:gsf--in-print"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u18658.php" crc="3814015756" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:gsf--design---development:gsf--in-print"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:gsf--design---development:gsf--in-print"/>
+    <file name="touchswipe.js" crc="4066113679" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:gsf--design---development:gsf--in-print"/>
+    <file name="form-u17562.php" crc="434833150" ref="tablet>index"/>
+    <file name="form-u12981.php" crc="283899865" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
+    <file name="bars.svg" crc="3999843705" seo="true" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="bars_poster_.png" crc="425349249" ref="phone>index"/>
+    <file name="pasted-svg-338259x338.svg" crc="3795750434" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 338259x338_poster_.png" crc="175167816" ref="phone>index"/>
+    <file name="img6.jpg" crc="99820677" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img6_2x.jpg" crc="4029582447" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img12.jpg" crc="4092873216" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img12_2x.jpg" crc="248335532" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="organic clothing-buttonu14669-fr.jpg" crc="370964718" ref="phone>index:tablet>index:index"/>
+    <file name="organic clothing-buttonu14669-fr_2x.jpg" crc="443388768" ref="phone>index:tablet>index:index"/>
+    <file name="scroll_arrow.png" crc="3937966813" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scroll_arrow_2x.png" crc="359781169" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-11751x11.svg" crc="3878534607" seo="true" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="pasted svg 11751x11_poster_.png" crc="4185859066" ref="phone>index"/>
+    <file name="martel-u14910-fr.jpg" crc="4086872726" ref="phone>gsf--branding---identity"/>
+    <file name="martel-u14910-fr_2x.jpg" crc="80087166" ref="phone>gsf--branding---identity"/>
+    <file name="pasted-svg-98586x98.svg" crc="477966997" seo="true" ref="phone>gsf--branding---identity:tablet>gsf--branding---identity:gsf--branding---identity">
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+    </file>
+    <file name="pasted svg 98586x98_poster_.png" crc="3826896867" ref="phone>gsf--branding---identity"/>
+    <file name="haven_0000_-waffle-u15983-fr.jpg" crc="3807224212" ref="phone>gsf--design---development"/>
+    <file name="haven_0000_-waffle-u15983-fr_2x.jpg" crc="231546507" ref="phone>gsf--design---development"/>
+    <file name="haven_0002_hangtag-u15990-fr.jpg" crc="4153341849" ref="phone>gsf--design---development"/>
+    <file name="haven_0002_hangtag-u15990-fr_2x.jpg" crc="154185831" ref="phone>gsf--design---development"/>
+    <file name="haven_0004_product display-u15987-fr.jpg" crc="4095616806" ref="phone>gsf--design---development"/>
+    <file name="haven_0004_product display-u15987-fr_2x.jpg" crc="3861069463" ref="phone>gsf--design---development"/>
+    <file name="haven_0005_product photography-u15988-fr.jpg" crc="118981394" ref="phone>gsf--design---development"/>
+    <file name="haven_0005_product photography-u15988-fr_2x.jpg" crc="507278532" ref="phone>gsf--design---development"/>
+    <file name="01 costco connection november 2012-u16005-fr.jpg" crc="387441277" ref="phone>gsf--in-print"/>
+    <file name="01 costco connection november 2012-u16005-fr_2x.jpg" crc="179052929" ref="phone>gsf--in-print"/>
+    <file name="02 costco connection october 2015-u16013-fr.jpg" crc="8319867" ref="phone>gsf--in-print"/>
+    <file name="02 costco connection october 2015-u16013-fr_2x.jpg" crc="4278538121" ref="phone>gsf--in-print"/>
+    <file name="03 costco connection april 2016-u16007-fr.jpg" crc="4252321941" ref="phone>gsf--in-print"/>
+    <file name="03 costco connection april 2016-u16007-fr_2x.jpg" crc="3886178249" ref="phone>gsf--in-print"/>
+    <file name="04 target catalog october 2017-u16003-fr.jpg" crc="4236338309" ref="phone>gsf--in-print"/>
+    <file name="04 target catalog october 2017-u16003-fr_2x.jpg" crc="201076976" ref="phone>gsf--in-print"/>
+    <file name="05 costco holiday saving-u16012-fr.jpg" crc="4139086019" ref="phone>gsf--in-print"/>
+    <file name="05 costco holiday saving-u16012-fr_2x.jpg" crc="362969522" ref="phone>gsf--in-print"/>
+    <file name="06 hgtv magazine jan-feb 2018-u18824-fr.jpg" crc="4270241" ref="phone>gsf--in-print"/>
+    <file name="06 hgtv magazine jan-feb 2018-u18824-fr_2x.jpg" crc="3852532209" ref="phone>gsf--in-print"/>
+    <file name="07 target catalog january 2018-u18835-fr.jpg" crc="507338693" ref="phone>gsf--in-print"/>
+    <file name="07 target catalog january 2018-u18835-fr_2x.jpg" crc="271758601" ref="phone>gsf--in-print"/>
+    <file name="pasted-svg-59101x59.svg" crc="4043196831" seo="true" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="pasted svg 59101x59_poster_.png" crc="337390023" ref="tablet>index"/>
+    <file name="pasted-svg-7639x14.svg" crc="386554745" seo="true" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="pasted svg 7639x14_poster_.png" crc="4229266688" ref="tablet>index"/>
+    <file name="pasted-svg-15743x10.svg" crc="351015961" seo="true" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="pasted svg 15743x10_poster_.png" crc="90946874" ref="tablet>index"/>
+    <file name="martel.jpg" crc="299272235" ref="tablet>gsf--branding---identity:gsf--branding---identity">
+      <caption webpage="gsf--branding---identity" alt=""/>
+    </file>
+    <file name="martel_2x.jpg" crc="4221960588" ref="tablet>gsf--branding---identity:gsf--branding---identity">
+      <caption webpage="gsf--branding---identity" alt=""/>
+    </file>
+    <file name="haven_0000_-waffle.jpg" crc="33707719" seo="true" ref="tablet>gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0002_hangtag.jpg" crc="3824485912" seo="true" ref="tablet>gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0004_product display.jpg" crc="393744738" seo="true" ref="tablet>gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0005_product photography.jpg" crc="4246162724" seo="true" ref="tablet>gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="tablet>gsf--design---development:tablet>gsf--in-print:gsf--design---development:gsf--in-print"/>
+    <file name="01 costco connection november 2012650x441.jpg" crc="4207884293" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="01 costco connection november 2012650x441_2x.jpg" crc="4237625051" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="02 costco connection october 2015650x441.jpg" crc="3886269544" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="02 costco connection october 2015650x441_2x.jpg" crc="292840748" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="03 costco connection april 2016650x441.jpg" crc="323051476" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="03 costco connection april 2016650x441_2x.jpg" crc="61130492" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="04 target catalog october 2017655x409.jpg" crc="3991529171" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="04 target catalog october 2017655x409_2x.jpg" crc="272950995" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="05 costco holiday saving655x403.jpg" crc="41416618" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="06 hgtv magazine jan-feb 2018667x429.jpg" crc="3924066253" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="06 hgtv magazine jan-feb 2018667x429_2x.jpg" crc="3771984999" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="07 target catalog january 2018655x419.jpg" crc="354872503" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="07 target catalog january 2018655x419_2x.jpg" crc="4285056451" seo="true" ref="tablet>gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="u12450.png" crc="281700512" ref="index"/>
+    <file name="u12450_2x.png" crc="127026028" ref="index"/>
+    <file name="u12450-r.png" crc="281700512" ref="index"/>
+    <file name="u12450-r_2x.png" crc="127026028" ref="index"/>
+    <file name="pasted-svg-11832x121.svg" crc="4163458800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 11832x121_poster_.png" crc="3957085095" ref="index"/>
+    <file name="pasted-svg-8013x122.svg" crc="4136598111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 8013x122_poster_.png" crc="3937333511" ref="index"/>
+    <file name="pasted-svg-107906x121.svg" crc="51764417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 107906x121_poster_.png" crc="3954860065" ref="index"/>
+    <file name="pasted-svg-561x823.svg" crc="409067833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 561x823_poster_.png" crc="4030374177" ref="index"/>
+    <file name="haven_0000_-waffle700x700.jpg" crc="358389837" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0002_hangtag700x700.jpg" crc="57215869" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0004_product display700x700.jpg" crc="69467324" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0005_product photography700x700.jpg" crc="4271406765" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0000_-waffle-crop-u16771.png" crc="529016255" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0000_-waffle-crop-u16771_2x.png" crc="249497505" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0002_hangtag-crop-u16905.png" crc="3803988232" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0002_hangtag-crop-u16905_2x.png" crc="3776263154" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0004_product display-crop-u16931.png" crc="44536585" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0004_product display-crop-u16931_2x.png" crc="101129929" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0005_product photography-crop-u16957.png" crc="3793212740" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="haven_0005_product photography-crop-u16957_2x.png" crc="3847148231" seo="true" ref="gsf--design---development">
+      <caption webpage="gsf--design---development" alt=""/>
+    </file>
+    <file name="01 costco connection november 2012757x539.jpg" crc="4212832624" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="02 costco connection october 2015.jpg" crc="312867003" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="03 costco connection april 2016.jpg" crc="4221670755" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="04 target catalog october 2017.jpg" crc="201076976" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="05 costco holiday saving.jpg" crc="362969522" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="06 hgtv magazine jan-feb 2018.jpg" crc="4121544736" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="07 target catalog january 2018.jpg" crc="263776845" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="07 target catalog january 2018_2x.jpg" crc="3949761052" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="01 costco connection november 201267x45.jpg" crc="3984887690" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="01 costco connection november 201267x45_2x.jpg" crc="534558152" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="02 costco connection october 201567x45.jpg" crc="4290075518" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="02 costco connection october 201567x45_2x.jpg" crc="203830636" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="03 costco connection april 201667x45.jpg" crc="14307045" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="03 costco connection april 201667x45_2x.jpg" crc="3784471136" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="04 target catalog october 201773x45.jpg" crc="360251913" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="04 target catalog october 201773x45_2x.jpg" crc="3806508348" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="05 costco holiday saving74x45.jpg" crc="4046272168" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="05 costco holiday saving74x45_2x.jpg" crc="4134212246" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="06 hgtv magazine jan-feb 201870x45.jpg" crc="4107301864" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="06 hgtv magazine jan-feb 201870x45_2x.jpg" crc="216166869" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="07 target catalog january 201871x45.jpg" crc="4220974323" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+    <file name="07 target catalog january 201871x45_2x.jpg" crc="423466479" seo="true" ref="gsf--in-print">
+      <caption webpage="gsf--in-print" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4001116060" ref="tablet>gsf--in-print:tablet>gsf--design---development:tablet>index:tablet>gsf--branding---identity"/>
+      <file name="gsf--in-print.css" crc="4100102938" ref="tablet>gsf--in-print"/>
+      <file name="iefonts_gsf--in-print.css" crc="336144297" ref="tablet>gsf--in-print"/>
+      <file name="gsf--design---development.css" crc="3826144375" ref="tablet>gsf--design---development"/>
+      <file name="iefonts_gsf--design---development.css" crc="468168433" ref="tablet>gsf--design---development"/>
+      <file name="index.css" crc="311047048" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="460600751" ref="tablet>index"/>
+      <file name="gsf--branding---identity.css" crc="4139525477" ref="tablet>gsf--branding---identity"/>
+      <file name="iefonts_gsf--branding---identity.css" crc="509749214" ref="tablet>gsf--branding---identity"/>
+    </folder>
+    <file name="index.html" crc="530682135" seo="true" mt="1519581517739" redirect="true"/>
+    <file name="gsf--branding---identity.html" crc="105716364" seo="true" mt="1519582869857" redirect="true"/>
+    <file name="gsf--design---development.html" crc="3794505364" seo="true" mt="1519547775049" redirect="true"/>
+    <file name="gsf--in-print.html" crc="3942000608" seo="true" mt="1519584474834" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="416614629" ref="phone>gsf--design---development:phone>index:phone>gsf--in-print:phone>gsf--branding---identity"/>
+      <file name="gsf--design---development.css" crc="461741071" ref="phone>gsf--design---development"/>
+      <file name="iefonts_gsf--design---development.css" crc="377863728" ref="phone>gsf--design---development"/>
+      <file name="index.css" crc="188946606" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="180636711" ref="phone>index"/>
+      <file name="gsf--in-print.css" crc="190014685" ref="phone>gsf--in-print"/>
+      <file name="iefonts_gsf--in-print.css" crc="146700450" ref="phone>gsf--in-print"/>
+      <file name="gsf--branding---identity.css" crc="375904048" ref="phone>gsf--branding---identity"/>
+      <file name="iefonts_gsf--branding---identity.css" crc="3902092709" ref="phone>gsf--branding---identity"/>
+    </folder>
+    <file name="index.html" crc="240476696" seo="true" mt="1519584944382" redirect="true"/>
+    <file name="gsf--branding---identity.html" crc="436979884" seo="true" mt="1519583697928" redirect="true"/>
+    <file name="gsf--design---development.html" crc="280520275" seo="true" mt="1519583697928" redirect="true"/>
+    <file name="gsf--in-print.html" crc="289243853" seo="true" mt="1519584768487" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4166755015" seo="true" mt="1519547791666" redirect="true"/>
+  <file name="gsf--branding---identity.html" crc="38923036" seo="true" mt="1519582869859" redirect="true"/>
+  <file name="gsf--design---development.html" crc="3810500432" seo="true" mt="1519547775046" redirect="true"/>
+  <file name="gsf--in-print.html" crc="97367144" seo="true" mt="1519547780314" redirect="true"/>
+</manifest>
