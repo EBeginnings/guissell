@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="guissell.com" resolutions="1x,2x" timestamp="1519610755228">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="guissell.com" resolutions="1x,2x" timestamp="1519612099227">
   <folder name="css">
     <file name="site_global.css" crc="246299799"/>
     <file name="master_master.css" crc="4202552941" ref="gsf--design---development:gsf--branding---identity:gsf--in-print:index"/>
@@ -8,7 +8,7 @@
     <file name="iefonts_gsf--branding---identity.css" crc="4195994589" ref="gsf--branding---identity"/>
     <file name="gsf--in-print.css" crc="3993483580" ref="gsf--in-print"/>
     <file name="iefonts_gsf--in-print.css" crc="515022958" ref="gsf--in-print"/>
-    <file name="index.css" crc="4210221876" ref="index"/>
+    <file name="index.css" crc="3990916538" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="notera.woff" crc="3916886867"/>
@@ -61,18 +61,16 @@
     <file name="blank.gif" crc="4208392903" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print"/>
     <file name="bars.svg" crc="3999843705" seo="true" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
       <caption webpage="gsf--branding---identity" alt=""/>
       <caption webpage="gsf--design---development" alt=""/>
     </file>
-    <file name="bars_poster_.png" crc="425349249" ref="phone>index"/>
+    <file name="bars_poster_.png" crc="4237265451" ref="phone>index:tablet>index"/>
     <file name="pasted-svg-338259x338.svg" crc="3795750434" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 338259x338_poster_.png" crc="175167816" ref="phone>index"/>
+    <file name="pasted svg 338259x338_poster_.png" crc="175167816" ref="phone>index:tablet>index"/>
     <file name="img6.jpg" crc="99820677" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
     </file>
@@ -85,8 +83,8 @@
     <file name="img12_2x.jpg" crc="248335532" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="organic clothing-buttonu14669-fr.jpg" crc="370964718" ref="phone>index:tablet>index:index"/>
-    <file name="organic clothing-buttonu14669-fr_2x.jpg" crc="443388768" ref="phone>index:tablet>index:index"/>
+    <file name="organic clothing-buttonu14669-fr.jpg" crc="370964718" ref="phone>index"/>
+    <file name="organic clothing-buttonu14669-fr_2x.jpg" crc="443388768" ref="phone>index"/>
     <file name="scroll_arrow.png" crc="3937966813" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index">
       <caption webpage="index" alt=""/>
     </file>
@@ -96,6 +94,7 @@
     <file name="martel-u14910-fr.jpg" crc="4086872726" ref="phone>gsf--branding---identity"/>
     <file name="martel-u14910-fr_2x.jpg" crc="80087166" ref="phone>gsf--branding---identity"/>
     <file name="pasted-svg-98586x98.svg" crc="477966997" seo="true" ref="phone>gsf--branding---identity:tablet>gsf--branding---identity:gsf--branding---identity">
+      <caption webpage="gsf--branding---identity" alt=""/>
       <caption webpage="gsf--branding---identity" alt=""/>
     </file>
     <file name="pasted svg 98586x98_poster_.png" crc="3826896867" ref="phone>gsf--branding---identity:tablet>gsf--branding---identity"/>
@@ -192,19 +191,16 @@
     <file name="u12450-r_2x.png" crc="127026028" ref="index"/>
     <file name="pasted-svg-11832x121.svg" crc="4163458800" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 11832x121_poster_.png" crc="3957085095" ref="phone>index"/>
+    <file name="pasted svg 11832x121_poster_.png" crc="3957085095" ref="phone>index:index"/>
     <file name="pasted-svg-8013x122.svg" crc="4136598111" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 8013x122_poster_.png" crc="3937333511" ref="phone>index"/>
+    <file name="pasted svg 8013x122_poster_.png" crc="3937333511" ref="phone>index:index"/>
     <file name="pasted-svg-107906x121.svg" crc="51764417" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 107906x121_poster_.png" crc="3954860065" ref="phone>index"/>
+    <file name="pasted svg 107906x121_poster_.png" crc="3954860065" ref="phone>index:index"/>
     <file name="pasted-svg-561x823.svg" crc="409067833" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -314,15 +310,13 @@
     <file name="envelop.svg" crc="341651596" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="envelop_poster_.png" crc="343006103" ref="phone>index"/>
+    <file name="envelop_poster_.png" crc="343006103" ref="phone>index:tablet>index"/>
     <file name="iphone.svg" crc="3979845728" seo="true" ref="phone>index:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
       <caption webpage="gsf--branding---identity" alt=""/>
@@ -330,26 +324,26 @@
       <caption webpage="gsf--design---development" alt=""/>
       <caption webpage="gsf--design---development" alt=""/>
     </file>
-    <file name="iphone_poster_.png" crc="4245496657" ref="phone>index"/>
+    <file name="iphone_poster_.png" crc="4245496657" ref="phone>index:tablet>index"/>
     <file name="linkedin.svg" crc="3977388390" seo="true" ref="phone>index:phone>gsf--branding---identity:phone>gsf--design---development:phone>gsf--in-print:tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="gsf--in-print" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
       <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--branding---identity" alt=""/>
+      <caption webpage="gsf--design---development" alt=""/>
       <caption webpage="gsf--design---development" alt=""/>
     </file>
-    <file name="linkedin_poster_.png" crc="224486637" ref="phone>index"/>
+    <file name="linkedin_poster_.png" crc="224486637" ref="phone>index:tablet>index"/>
     <file name="location.svg" crc="3973935771" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="location_poster_.png" crc="406313540" ref="phone>index"/>
-    <file name="envelop-o.svg" crc="3817897827" seo="true" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
+    <file name="location_poster_.png" crc="406313540" ref="phone>index:tablet>index"/>
+    <file name="envelop-o.svg" crc="4206605726" seo="true" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
@@ -359,7 +353,9 @@
       <caption webpage="gsf--design---development" alt=""/>
       <caption webpage="gsf--design---development" alt=""/>
     </file>
-    <file name="envelop o_poster_.png" crc="116527650" ref="tablet>index"/>
+    <file name="envelop o_poster_.png" crc="146335457" ref="tablet>index"/>
+    <file name="organic clothing-buttonu14073-fr.jpg" crc="370964718" ref="tablet>index:index"/>
+    <file name="organic clothing-buttonu14073-fr_2x.jpg" crc="443388768" ref="tablet>index:index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -368,15 +364,15 @@
       <file name="iefonts_gsf--design---development.css" crc="509760906" ref="tablet>gsf--design---development"/>
       <file name="gsf--in-print.css" crc="3876252315" ref="tablet>gsf--in-print"/>
       <file name="iefonts_gsf--in-print.css" crc="3760733426" ref="tablet>gsf--in-print"/>
-      <file name="index.css" crc="358744406" ref="tablet>index"/>
+      <file name="index.css" crc="462341107" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="3914386848" ref="tablet>index"/>
       <file name="gsf--branding---identity.css" crc="3935321438" ref="tablet>gsf--branding---identity"/>
       <file name="iefonts_gsf--branding---identity.css" crc="154944742" ref="tablet>gsf--branding---identity"/>
     </folder>
-    <file name="index.html" crc="325873477" seo="true" mt="1519610716652" redirect="true"/>
-    <file name="gsf--branding---identity.html" crc="444720076" seo="true" mt="1519608395123" redirect="true"/>
-    <file name="gsf--design---development.html" crc="147803480" seo="true" mt="1519608395123" redirect="true"/>
-    <file name="gsf--in-print.html" crc="192752783" seo="true" mt="1519608395123" redirect="true"/>
+    <file name="index.html" crc="3916990992" seo="true" mt="1519612069469" redirect="true"/>
+    <file name="gsf--branding---identity.html" crc="159245699" seo="true" mt="1519612069469" redirect="true"/>
+    <file name="gsf--design---development.html" crc="4106892276" seo="true" mt="1519612069469" redirect="true"/>
+    <file name="gsf--in-print.html" crc="78539323" seo="true" mt="1519612069469" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -395,8 +391,8 @@
     <file name="gsf--design---development.html" crc="4012069104" seo="true" mt="1519610551879" redirect="true"/>
     <file name="gsf--in-print.html" crc="515395814" seo="true" mt="1519610551879" redirect="true"/>
   </folder>
-  <file name="index.html" crc="67276469" seo="true" mt="1519610736914" redirect="true"/>
-  <file name="gsf--branding---identity.html" crc="4057118030" seo="true" mt="1519608378064" redirect="true"/>
-  <file name="gsf--design---development.html" crc="259402635" seo="true" mt="1519608378064" redirect="true"/>
-  <file name="gsf--in-print.html" crc="198796974" seo="true" mt="1519608378064" redirect="true"/>
+  <file name="index.html" crc="3954391204" seo="true" mt="1519612053993" redirect="true"/>
+  <file name="gsf--branding---identity.html" crc="321999580" seo="true" mt="1519612053993" redirect="true"/>
+  <file name="gsf--design---development.html" crc="454764250" seo="true" mt="1519612053993" redirect="true"/>
+  <file name="gsf--in-print.html" crc="432559113" seo="true" mt="1519612053993" redirect="true"/>
 </manifest>
