@@ -11,15 +11,6 @@
       <image:loc>http://guissell.com/images/pasted-svg-338259x338.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-11751x11.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-7639x14.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-15743x10.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://guissell.com/images/pasted-svg-11832x121.svg</image:loc>
     </image:image>
     <image:image>
@@ -31,6 +22,21 @@
     <image:image>
       <image:loc>http://guissell.com/images/pasted-svg-561x823.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/envelop.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/iphone.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/location.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/envelop-o.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://guissell.com/gsf--branding---identity.html</loc>
@@ -40,16 +46,16 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://guissell.com/phone/gsf--branding---identity.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://guissell.com/tablet/gsf--branding---identity.html"/>
     <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-11751x11.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://guissell.com/images/pasted-svg-98586x98.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-7639x14.svg</image:loc>
+      <image:loc>http://guissell.com/images/iphone.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-15743x10.svg</image:loc>
+      <image:loc>http://guissell.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/envelop-o.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -59,15 +65,6 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://guissell.com/phone/gsf--design---development.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://guissell.com/tablet/gsf--design---development.html"/>
-    <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-11751x11.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-7639x14.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-15743x10.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://guissell.com/images/haven_0000_-waffle700x700.jpg</image:loc>
     </image:image>
@@ -104,6 +101,15 @@
     <image:image>
       <image:loc>http://guissell.com/images/haven_0005_product%20photography-crop-u16957_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/iphone.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/envelop-o.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://guissell.com/gsf--in-print.html</loc>
@@ -112,15 +118,6 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://guissell.com/phone/gsf--in-print.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://guissell.com/tablet/gsf--in-print.html"/>
-    <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-11751x11.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-7639x14.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://guissell.com/images/pasted-svg-15743x10.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://guissell.com/images/01%20costco%20connection%20november%202012757x539.jpg</image:loc>
     </image:image>
@@ -186,6 +183,15 @@
     </image:image>
     <image:image>
       <image:loc>http://guissell.com/images/07%20target%20catalog%20january%20201871x45_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/iphone.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://guissell.com/images/envelop-o.svg</image:loc>
     </image:image>
   </url>
 </urlset>
