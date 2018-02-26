@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="guissell.com" resolutions="1x,2x" timestamp="1519609324094">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="guissell.com" resolutions="1x,2x" timestamp="1519609930792">
   <folder name="css">
     <file name="site_global.css" crc="246299799"/>
     <file name="master_master.css" crc="4202552941" ref="gsf--design---development:gsf--branding---identity:gsf--in-print:index"/>
@@ -367,7 +367,7 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="430518238" ref="phone>index:phone>gsf--in-print:phone>gsf--branding---identity:phone>gsf--design---development"/>
-      <file name="index.css" crc="3957657180" ref="phone>index"/>
+      <file name="index.css" crc="3946039164" ref="phone>index"/>
       <file name="iefonts_index.css" crc="3966674998" ref="phone>index"/>
       <file name="gsf--in-print.css" crc="4075366982" ref="phone>gsf--in-print"/>
       <file name="iefonts_gsf--in-print.css" crc="352401942" ref="phone>gsf--in-print"/>
@@ -376,7 +376,7 @@
       <file name="gsf--design---development.css" crc="4294501506" ref="phone>gsf--design---development"/>
       <file name="iefonts_gsf--design---development.css" crc="3880611377" ref="phone>gsf--design---development"/>
     </folder>
-    <file name="index.html" crc="386251796" seo="true" mt="1519609298930" redirect="true"/>
+    <file name="index.html" crc="3849978610" seo="true" mt="1519609877820" redirect="true"/>
     <file name="gsf--branding---identity.html" crc="241170462" seo="true" mt="1519607586076" redirect="true"/>
     <file name="gsf--design---development.html" crc="495342076" seo="true" mt="1519607586076" redirect="true"/>
     <file name="gsf--in-print.html" crc="4147559484" seo="true" mt="1519607586076" redirect="true"/>
