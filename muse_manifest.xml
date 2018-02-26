@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="guissell.com" resolutions="1x,2x" timestamp="1519607623525">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="guissell.com" resolutions="1x,2x" timestamp="1519608604934">
   <folder name="css">
     <file name="site_global.css" crc="246299799"/>
     <file name="master_master.css" crc="4202552941" ref="gsf--design---development:gsf--branding---identity:gsf--in-print:index"/>
@@ -63,10 +63,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
-      <caption webpage="gsf--in-print" alt=""/>
       <caption webpage="gsf--branding---identity" alt=""/>
-      <caption webpage="gsf--branding---identity" alt=""/>
-      <caption webpage="gsf--design---development" alt=""/>
       <caption webpage="gsf--design---development" alt=""/>
     </file>
     <file name="bars_poster_.png" crc="425349249" ref="phone>index"/>
@@ -101,9 +98,8 @@
     <file name="pasted-svg-98586x98.svg" crc="477966997" seo="true" ref="phone>gsf--branding---identity:tablet>gsf--branding---identity:gsf--branding---identity">
       <caption webpage="gsf--branding---identity" alt=""/>
       <caption webpage="gsf--branding---identity" alt=""/>
-      <caption webpage="gsf--branding---identity" alt=""/>
     </file>
-    <file name="pasted svg 98586x98_poster_.png" crc="3826896867" ref="phone>gsf--branding---identity"/>
+    <file name="pasted svg 98586x98_poster_.png" crc="3826896867" ref="phone>gsf--branding---identity:tablet>gsf--branding---identity"/>
     <file name="haven_0000_-waffle-u15983-fr.jpg" crc="3807224212" ref="phone>gsf--design---development"/>
     <file name="haven_0000_-waffle-u15983-fr_2x.jpg" crc="231546507" ref="phone>gsf--design---development"/>
     <file name="haven_0002_hangtag-u15990-fr.jpg" crc="4153341849" ref="phone>gsf--design---development"/>
@@ -342,11 +338,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
-      <caption webpage="gsf--in-print" alt=""/>
       <caption webpage="gsf--branding---identity" alt=""/>
       <caption webpage="gsf--branding---identity" alt=""/>
-      <caption webpage="gsf--branding---identity" alt=""/>
-      <caption webpage="gsf--design---development" alt=""/>
       <caption webpage="gsf--design---development" alt=""/>
       <caption webpage="gsf--design---development" alt=""/>
     </file>
@@ -357,7 +350,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="location_poster_.png" crc="406313540" ref="phone>index"/>
-    <file name="envelop-o.svg" crc="385892705" seo="true" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
+    <file name="envelop-o.svg" crc="3817897827" seo="true" ref="tablet>index:tablet>gsf--branding---identity:tablet>gsf--design---development:tablet>gsf--in-print:index:gsf--branding---identity:gsf--design---development:gsf--in-print">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="gsf--in-print" alt=""/>
@@ -367,7 +360,7 @@
       <caption webpage="gsf--design---development" alt=""/>
       <caption webpage="gsf--design---development" alt=""/>
     </file>
-    <file name="envelop o_poster_.png" crc="433213426" ref="tablet>index"/>
+    <file name="envelop o_poster_.png" crc="116527650" ref="tablet>index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -376,15 +369,15 @@
       <file name="iefonts_gsf--design---development.css" crc="509760906" ref="tablet>gsf--design---development"/>
       <file name="gsf--in-print.css" crc="3876252315" ref="tablet>gsf--in-print"/>
       <file name="iefonts_gsf--in-print.css" crc="3760733426" ref="tablet>gsf--in-print"/>
-      <file name="index.css" crc="3971510931" ref="tablet>index"/>
+      <file name="index.css" crc="3795989082" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="3914386848" ref="tablet>index"/>
       <file name="gsf--branding---identity.css" crc="3935321438" ref="tablet>gsf--branding---identity"/>
       <file name="iefonts_gsf--branding---identity.css" crc="154944742" ref="tablet>gsf--branding---identity"/>
     </folder>
-    <file name="index.html" crc="450851721" seo="true" mt="1519607242900" redirect="true"/>
-    <file name="gsf--branding---identity.html" crc="3939409973" seo="true" mt="1519607408904" redirect="true"/>
-    <file name="gsf--design---development.html" crc="471993696" seo="true" mt="1519607399989" redirect="true"/>
-    <file name="gsf--in-print.html" crc="3831967716" seo="true" mt="1519607389360" redirect="true"/>
+    <file name="index.html" crc="410627023" seo="true" mt="1519608580622" redirect="true"/>
+    <file name="gsf--branding---identity.html" crc="444720076" seo="true" mt="1519608395123" redirect="true"/>
+    <file name="gsf--design---development.html" crc="147803480" seo="true" mt="1519608395123" redirect="true"/>
+    <file name="gsf--in-print.html" crc="192752783" seo="true" mt="1519608395123" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -398,13 +391,13 @@
       <file name="gsf--design---development.css" crc="4294501506" ref="phone>gsf--design---development"/>
       <file name="iefonts_gsf--design---development.css" crc="3880611377" ref="phone>gsf--design---development"/>
     </folder>
-    <file name="index.html" crc="3930982482" seo="true" mt="1519607586076" redirect="true"/>
+    <file name="index.html" crc="231260103" seo="true" mt="1519608432138" redirect="true"/>
     <file name="gsf--branding---identity.html" crc="241170462" seo="true" mt="1519607586076" redirect="true"/>
     <file name="gsf--design---development.html" crc="495342076" seo="true" mt="1519607586076" redirect="true"/>
     <file name="gsf--in-print.html" crc="4147559484" seo="true" mt="1519607586076" redirect="true"/>
   </folder>
-  <file name="index.html" crc="452788162" seo="true" mt="1519607211333" redirect="true"/>
-  <file name="gsf--branding---identity.html" crc="219652215" seo="true" mt="1519607426453" redirect="true"/>
-  <file name="gsf--design---development.html" crc="110182181" seo="true" mt="1519606168168" redirect="true"/>
-  <file name="gsf--in-print.html" crc="45848825" seo="true" mt="1519606168168" redirect="true"/>
+  <file name="index.html" crc="104824886" seo="true" mt="1519608463234" redirect="true"/>
+  <file name="gsf--branding---identity.html" crc="4057118030" seo="true" mt="1519608378064" redirect="true"/>
+  <file name="gsf--design---development.html" crc="259402635" seo="true" mt="1519608378064" redirect="true"/>
+  <file name="gsf--in-print.html" crc="198796974" seo="true" mt="1519608378064" redirect="true"/>
 </manifest>
